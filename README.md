@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://rainbryan.com" target="_blank">
-    <img src="https://img.shields.io/badge/visiting-rainbryan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-rainbryan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://discord.com/users/547621198180384789" target="_blank">
-    <img src="https://img.shields.io/badge/chatting-on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Add Me%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://steamcommunity.com/id/RainBryan" target="_blank">
-    <img src="https://img.shields.io/badge/gaming-on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+    <img src="https://img.shields.io/badge/Steamn%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
 
